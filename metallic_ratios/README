@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=7lRgeTmxnlg
+
+N-bonacci series:
+  
+  P[n] = N*P[n-1] + P[n-2]
+
+N = 1 golden ratio (1+√5)/2
+N = 2 silver ratio (2+√8/2
+N = 3 bronze ratio (3+√13)/2
+N ratio = (N + √(N^2 + 4))/2
+
+N = 1/2 ?
