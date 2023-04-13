@@ -1,3 +1,9 @@
+/*
+  how to use this file:
+
+  node this_file.js | bash
+
+*/
 let inici = 2021;
 let anys  = 200;
 
